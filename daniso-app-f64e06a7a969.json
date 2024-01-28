@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "daniso-app",
+  "private_key_id": "f64e06a7a969f9555a83093b5a3bfcbdba585d37",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCczOlLv99UXu0t\nYKdOheT+FKUVuUBFNKnrV45bbaknMDOiwdaNyC/6ZlpJd8kyfo3KLrk0ULgJrc+j\nUYndGpl59U+dz3+dRsKcq3AD/z3wC2qzrDZDu2qHLxcHo8noba/xeCgc9PWhxhFL\nseFMsctIHZit8LT/hExtYYZ0mleOhhkkPRRHht8BHQyzCGgwaAz+p6tSU36QUtKd\nydFUCTXvdeWP+WZCWhDgmgiiTZy6GfnmsXANzbRD/335yvmiVjDbXwvCP4rwjxUc\nkeMeiLo6ban0tVKaNA/BRi9o5V9gup/axa/wWjKY8D4CRLohNeVa0/gZa4GRHlW9\nANaxz8KrAgMBAAECggEAEOalXtzXnah9uB5q6jPUcu6WvLizDMKYbh2J4qD3UpoH\ndsud7LpfMYZGxRR8Q00Qy3It1E2/CIwLjXcEfSiY0mR2qHPtNW6jG2//Ku8gJfeV\nELjHQJW67cdNnC0zXjI0fLqO2FAvCbjntFkAB9xCJQvLoTQIzmHcOw4ACCF6vona\nVqboN9Tcw3O2jl27v8tpSDs1iEgzXC9ycCwK68IvhBogYJa+gIi39f+l+GB5Y4oq\n/FymAnUzlqkVUh3n/GbWRx6Eqofty4bIedDwd0gundYLjbiIiYjGuJ4wWEFyVvi/\nSWRKOlT6N9Td38NbvssQv56U+GymCHTPDeZeBu86QQKBgQDc0FVVxyfYQ9rzthfy\n0z4rxWswJVE5pAQKqkNlIxhZR/AFl3dlZid2KYnuBoqIhcXOOOMhTUTlYmYlYfon\np+ebl/zPKwcMKUTcRhFqwraUSyIxjIUVvnssKR6rsH6JflwmdV+z+N1MCC14DRLg\nLClkdqrU7CsuuiW0AuUZolnVdQKBgQC1yUcrRHaiIBqYelHLj1mtfFXJCbh/U/9k\nhbM/jPNaQIqkJg6l2egTqJS+aamAfUKJ9NmHUasW7nnj7c4ifhk/z4gUQPKczhUF\ngA3eZxq0W45kRBcT54+2BrnjvY4rr4Vi/qMGvmb93/E+ZaOpwJ3FNxovY7KbtvoZ\nXbeS1GqTnwKBgEvPKrz8Vu2kvjMVvTsc0ydr69Tnuu8zJEAVHHZIij98tyb0TYV+\ngOXMdRJHJKCibLrURQZV5OVr1u3WqW+b8aQ1lhH6D71ZHc8SL0CcANsAwIiKWdaR\nQvByXZlMSuUhgLmjamv7cN59oD6rHmPgRYW8SAI54sl0FyWqKMWYO4dRAoGAQtTy\n40dSThx7ap9dvva+w3c4mqaGO9mHxU8aLT0GoqGj1uFe9T59geyycqap+GEUu19X\nMdamjdGy4kclR60QX1NO9hNCnr9tHw6LCr7hJHmcieQ2j8zMGuGyKbYgtJLc+R4g\nlXQerStNp+D6IIh9+GlfqRiAK5tDq1u3B7YsUIUCgYAKr7bFw90q6zQZazDj5Sx2\njHcqRfuR/SG0Ql8MKArJxLokU02KEqHYJOVkY7H0gh6fMNeQsid2oVL6pmxf5tlz\nC286mG0/VECvwyyfNoDTCtbNlE2yckQzaplPIASw3QwFPOdWnWMoNgRd5Lttvu+G\norFs8ZiGJpAUijumTsOqxQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "test-539@daniso-app.iam.gserviceaccount.com",
+  "client_id": "112868240819425217441",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/test-539%40daniso-app.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
